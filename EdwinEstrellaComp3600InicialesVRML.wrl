@@ -1,0 +1,215 @@
+#VRML V2.0 utf8
+
+#Edwin J Estrella Ayala
+#A00549508
+#COMP3600
+#Asig VRML Iniciales
+
+#E - Edwin
+#VerticalEdwin
+Transform {
+	scale 0.5 2 0.5
+	translation	-5 0 0
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 0 0 1
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
+
+#TopEdwin
+Transform {
+	scale 0.5 1.5 0.5
+	translation	-4 2 0
+    rotation 0 0 1 1.57
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 0 0 1
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
+
+#MidEdwin
+Transform {
+	scale 0.5 1.5 0.5
+	translation	-4 0 0
+    rotation 0 0 1 1.57
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 0 0 1
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
+
+#BotEdwin
+Transform {
+	scale 0.5 1.5 0.5
+	translation	-4 -2 0
+    rotation 0 0 1 1.57
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 0 0 1
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
+
+#J -Joziel
+#VerticalJoziel
+Transform {
+	scale 0.5 2 0.5
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 1 0 0
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
+
+#TopJoziel
+Transform {
+	scale 0.5 1.5 0.5
+	translation	0 2 0
+    rotation 0 0 1 1.57
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 1 0 0
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
+
+
+#BotJoziel
+Transform {
+	scale 0.5 1 0.5
+	translation	-0.5 -2 0
+    rotation 0 0 1 1.57
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 1 0 0
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
+
+# E - Estrella
+#VerticalEstrella
+Transform {
+	scale 0.5 2 0.5
+	translation 3 0 0
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 0 1 0
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
+
+#TopEstrella
+Transform {
+	scale 0.5 1.5 0.5
+	translation	4 2 0
+    rotation 0 0 1 1.57
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 0 1 0
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
+
+#MidEstrella
+Transform {
+	scale 0.5 1.5 0.5
+	translation	4 0 0
+    rotation 0 0 1 1.57
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 0 1 0
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
+
+#BotEstrella
+Transform {
+	scale 0.5 1.5 0.5
+	translation	4 -2 0
+    rotation 0 0 1 1.57
+	children [
+		Shape {
+			appearance Appearance {
+				material Material {
+					diffuseColor 0 1 0
+				}
+			}
+			geometry Box {
+			}
+		}
+	]
+}
+
